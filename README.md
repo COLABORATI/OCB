@@ -8,6 +8,8 @@ Odoo
 
 Odoo is a suite of web based open source business apps.
 
+The [Project Steering Committee](https://odoo-community.org/project/backport-maintainers-17) manages a repository that add additional bugfixes to the official odoo branch. The repository is updated nightly with missing revisions from the official one. Functional changes are not encouraged, especially if they change the database layout.
+
 The main Odoo Apps include an <a href="https://www.odoo.com/page/crm">Open Source CRM</a>, <a href="https://www.odoo.com/page/website-builder">Website Builder</a>, <a href="https://www.odoo.com/page/e-commerce">eCommerce</a>, <a href="https://www.odoo.com/page/project-management">Project Management</a>, <a href="https://www.odoo.com/page/accounting">Billing &amp; Accounting</a>, <a href="https://www.odoo.com/page/point-of-sale">Point of Sale</a>, <a href="https://www.odoo.com/page/employees">Human Resources</a>, Marketing, Manufacturing, Purchase Management, ...  
 
 Odoo Apps can be used as stand-alone applications, but they also integrate seamlessly so you get
